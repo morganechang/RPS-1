@@ -1,0 +1,50 @@
+h1{
+padding: 5%;
+font-family: 'Permanent Marker', cursive;
+font-size: 80px;
+background-image: url("images/goldbackground.jpg");
+}
+
+h2{
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
+
+body{
+	text-align: center;
+	font-size: 50px;
+	font-family: 'Amatic SC', cursive;
+	background-color:lavender;
+}
+
+
+
+button{
+	margin:auto;
+	padding:auto;
+	font-size: 40px;
+	font-family: 'Amatic SC', cursive;
+}
+
+
+#user-message, #computer-message {
+  display: none;
+  font-size: 50px;
+}
+
+#user-message{
+	float: left;
+	margin-left:5%;
+}
+
+
+#computer-message{
+	float:right;
+	margin-right: 5%;
+}
+
+#result{
+	font-size: 100px;
+	text-align:center;
+}
+
